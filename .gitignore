@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Env
+.venv/
+.env
+
+# ChromaDB
+data/chroma_db/
+
+# Audio & Videos
+data/videos/
+data/audio/
+
+# Reports
+data/reports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
